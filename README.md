@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   
   
   
-# Into
+# Intro
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=White)](https://www.notion.so/Yul-s-with-AI-8fd68e4862b045b8afd0f2d116310b98)
 
 [![Tech Blog](https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Bloglovin&logoColor=white)](https://321coucou.tistory.com/)
