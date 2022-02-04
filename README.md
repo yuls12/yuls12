@@ -20,10 +20,12 @@ Here are some ideas to get you started:
 
 
 <div align=center>
+  <br>
   
-  ## Tech Stack
+  # Tech Stack
   
   <p align="center"> Techs that I've used at least once </p>
+  <br>
   
   <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -40,11 +42,12 @@ Here are some ideas to get you started:
 </p>
 
 
+  <br>
+  <br>
   
   
   
-  
-## Into
+# Into
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=White)](https://www.notion.so/Yul-s-with-AI-8fd68e4862b045b8afd0f2d116310b98)
 
 [![Tech Blog](https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Bloglovin&logoColor=white)](https://321coucou.tistory.com/)
