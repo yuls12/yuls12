@@ -7,7 +7,7 @@
   # Velog 
 
   [![Velog](https://velog-readme-stats.vercel.app/api?name=yule&tag=NLP)](https://velog.io/@yule)
-   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yule&tag=프로그래머스)](https://github.com/eungyeole/velog-readme-stats)
+ <!--  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yule&tag=프로그래머스)](https://github.com/eungyeole/velog-readme-stats)  -->
 
   
   <br/>
