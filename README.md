@@ -3,19 +3,20 @@
 
 <div align=center>
   <br>
-  
+
+
+<!-- 
   # Velog 
 
   [![Velog](https://velog-readme-stats.vercel.app/api?name=yule&tag=NLP)](https://velog.io/@yule)
  <!--  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yule&tag=프로그래머스)](https://github.com/eungyeole/velog-readme-stats)  -->
 
-  
+ 
   <br/>
-  
+
   
   # Tech Stack
   
-  <p align="center"> Techs that I've used at least once </p>
   <br>
   
   <p align="center">
