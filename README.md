@@ -38,18 +38,6 @@
   <br/>
 
   <br/>
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyuls12&count_bg=%233C79F5&title_bg=%23E6F4F1&icon=smugmug.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<!-- 
-
-# Intro
-[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=White)](https://www.notion.so/Yul-s-with-AI-8fd68e4862b045b8afd0f2d116310b98)
-
-[![Tech Blog](https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Bloglovin&logoColor=white)](https://yuls-with-ai.tistory.com/)
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yuluri129@gmail.com)](mailto:yuluri129@gmail.com)
-  
--->  
     
 </div>
